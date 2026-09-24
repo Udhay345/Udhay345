@@ -144,15 +144,16 @@ View Repository →
 
 ---
 
-## 📊 GitHub Statistics
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Udhay345&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Udhay345&theme=tokyonight" width="95%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhay345&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Udhay345&theme=tokyonight" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Udhay345&theme=tokyonight" height="180"/>
 
 </div>
 

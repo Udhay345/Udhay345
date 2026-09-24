@@ -146,11 +146,13 @@ View Repository →
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Udhay345&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Udhay345&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhay345&layout=compact&hide_border=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udhay345&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -166,11 +168,13 @@ View Repository →
 
 ---
 
+
+
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Udhay345/Udhay345/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/Udhay345/Udhay345/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
 
 </div>
 
